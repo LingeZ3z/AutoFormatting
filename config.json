@@ -1,0 +1,27 @@
+{
+    "title": "某帅气的哥群周刊第 N 刊",
+    "imgurl": "https://cdn.luogu.com.cn/upload/image_hosting/2u76icy3.png",
+    "links": [
+        "e7l583bi",
+        "jyivt87v",
+        "x578tdzh",
+        "79268vaz",
+        "63ncf3b8"
+    ],
+    "ads": [
+        "ad1.md",
+        "ad2.md"
+    ],
+    "articles": [
+        {
+            "title": "第一篇文章",
+            "author": "ABC",
+            "path": "test1.md"
+        },
+        {
+            "title": "第二篇文章",
+            "author": "DEF",
+            "path": "test2.md"
+        }
+    ]
+}
